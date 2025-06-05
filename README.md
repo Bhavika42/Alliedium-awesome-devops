@@ -648,3 +648,8 @@ Key subjects:
 - DevSpace profile
 - starting with a `loft-sh/devspace-quickstart-python project/02-fastapi-tortoise`
 - nix
+
+
+## [79 Cloud Native Playgrounds]
+
+- [Cloud Native Playground by Meshery](https://play.meshery.io) - Try service mesh features directly in your browser.
